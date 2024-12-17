@@ -12,4 +12,4 @@
  prosthetic limb to respond intuitively to the user's intended movements.
  
  ![snapedit_1717059130063 jpeg](https://github.com/user-attachments/assets/32a19e7d-190b-40b5-bda9-33368f3353ec)
-![Picture2](https://github.com/user-attachments/assets/e43d8399-72fc-49f0-a407-b5b3f2f9dee8)
+![Picture1](https://github.com/user-attachments/assets/5bd7805b-4ad1-40f7-9dc3-3b5d8141ffa2)
